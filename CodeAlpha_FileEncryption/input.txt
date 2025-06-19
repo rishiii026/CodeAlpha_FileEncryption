@@ -1,0 +1,3 @@
+Hello CodeAlpha!
+This is a secret.
+Please encrypt this.
